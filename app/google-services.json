@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866541501550",
+    "firebase_url": "https://mvvmauthtask.firebaseio.com",
+    "project_id": "mvvmauthtask",
+    "storage_bucket": "mvvmauthtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866541501550:android:3aeca14be3fe32e798ba7f",
+        "android_client_info": {
+          "package_name": "com.orangeink.dcodertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866541501550-ha7cbq6c160sig45e8s8u1q50e8ee02r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangeink.dcodertask",
+            "certificate_hash": "709e405af323c5c19329604116bf391bf482286a"
+          }
+        },
+        {
+          "client_id": "866541501550-pjdg7ljmmk4va2rkn0sn9a8tpb8cug5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGhyg796YU1mysJWIvX_AOHftjHHsycg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866541501550-pjdg7ljmmk4va2rkn0sn9a8tpb8cug5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

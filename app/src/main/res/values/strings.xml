@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DcoderTask</string>
+    <string name="let_s_start_with_login">Let\'s start with Login!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? <b>SignUp</b></string>
+    <string name="already_have_an_account_signin">Already have an account? <b>SignIn</b></string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="signup_welcome">Let\'s start with Sign Up!</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_firebase_auth">Welcome to Firebase Auth!</string>
+</resources>
